@@ -1,0 +1,28 @@
+p {
+    background-color: rgb(19, 17, 13);
+    text-align: center;
+    font-family: verdana;
+  font-size: 20px;
+  color: #ebf4f4;
+  opacity: 0.4;
+  margin: 25px ;
+}
+
+.c {
+ border-style: solid;
+ border-color: blue;
+ border-radius: 5px;
+}
+
+#p {
+    background-color: black;
+    padding: 50px;
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+    color: aliceblue;
+}
+h1{
+  background-color: rgb(6, 6, 11);
+}
