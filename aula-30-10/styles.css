@@ -1,28 +1,29 @@
 p {
-    background-color: rgb(19, 17, 13);
+    background-color: rgb(87, 93, 211);
     text-align: center;
     font-family: verdana;
   font-size: 20px;
   color: #ebf4f4;
-  opacity: 0.4;
+  opacity: 2;
   margin: 25px ;
 }
 
 .c {
  border-style: solid;
- border-color: blue;
+ border-color: rgb(133, 133, 195);
  border-radius: 5px;
 }
 
 #p {
-    background-color: black;
+    background-color: rgb(127, 159, 213);
     padding: 50px;
     width: 320px;
     height: 50px;
     padding: 10px;
+    opacity:0.4 ;
     margin: 0;
     color: aliceblue;
 }
 h1{
-  background-color: rgb(6, 6, 11);
+  background-color: rgb(119, 119, 225);
 }
