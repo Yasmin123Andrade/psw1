@@ -43,6 +43,9 @@ table, th, td  {
   border: 1x solid black; 
   padding: 15px;
   deisplay: rgb(139, 139, 188)
+  border-radius: 10px;
+  border-spacing: 30px;
+  padding: 15px;
 }
 .p{
   background-color: green;
@@ -51,6 +54,9 @@ table, th, td  {
 tr :hover{
  background-color: rgb(72, 80, 190);
  margin: 20px;
+}
+div {
+  background-color: green;
 }
 
 
